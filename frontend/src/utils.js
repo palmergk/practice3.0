@@ -11,3 +11,5 @@ export const SuccessAlert = (message) => {
         position: "top-center"
     })
 }
+
+export const backendURL = 'http://localhost:5005'
